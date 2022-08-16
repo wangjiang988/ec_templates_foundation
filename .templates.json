@@ -1,0 +1,56 @@
+[
+	{
+		"description": "controller",
+		"group_name": "curd",
+		"name": "curd_controller",
+		"path": "./curd/controller.tpl"
+	},
+	{
+		"description": "测试service模板",
+		"group_name": "curd",
+		"name": "curd_entity",
+		"path": "./curd/entity.tpl"
+	},
+	{
+		"description": "mapper",
+		"group_name": "curd",
+		"name": "curd_mapper",
+		"path": "./curd/mapper.tpl"
+	},
+	{
+		"description": "management",
+		"group_name": "curd",
+		"name": "curd_management",
+		"path": "./curd/mgmt.tpl"
+	},
+	{
+		"description": "management_impl",
+		"group_name": "curd",
+		"name": "curd_management_impl",
+		"path": "./curd/mgmt_impl.tpl"
+	},
+	{
+		"description": "qo",
+		"group_name": "curd",
+		"name": "curd_qo",
+		"path": "./curd/qo.tpl"
+	},
+	{
+		"description": "service",
+		"group_name": "curd",
+		"name": "curd_service",
+		"path": "./curd/service.tpl"
+	},
+	{
+		"description": "service_impl",
+		"group_name": "curd",
+		"name": "curd_service_impl",
+		"path": "./curd/service_impl.tpl"
+	},
+	{
+		"description": "vo",
+		"group_name": "curd",
+		"name": "curd_vo",
+		"path": "./curd/vo.tpl"
+	}
+]
